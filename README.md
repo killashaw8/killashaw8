@@ -32,7 +32,7 @@ I'm a **Software Engineer** with a foundation in Business Administration and a p
 ## 🌟 Featured Projects
 
 - **MediBridge** – Empowering healthcare connections and streamlining medical workflows.
-- **TopGear** – Accelerating project collaboration with innovative features for modern teams.
+- **TopGear** – A modern car showroom project where you can browse, discover, and purchase cars online.
 
 ---
 
