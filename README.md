@@ -1,7 +1,9 @@
 
+
+
 # Hi there, I'm Rahimjon Halimov (Romeo) 👋
 
-I'm a **Software Engineer** with a foundation in Business Administration and a passion for building impactful solutions. My coding journey began in early 2025, and since then I’ve been diving deep into full-stack web development and exploring the world of AI.
+I'm a **Software Engineer** with a foundation in Business Administration and a passion for building impactful solutions. My coding journey began in early 2025, and since then I’ve been diving dee[...]
 
 ---
 
@@ -18,7 +20,7 @@ I'm a **Software Engineer** with a foundation in Business Administration and a p
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/VueJS-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
@@ -64,3 +66,5 @@ Majored in **Business Administration**, my unique perspective bridges the gap be
 ---
 
 _Always eager to collaborate, learn, and contribute to exciting projects!_
+
+
