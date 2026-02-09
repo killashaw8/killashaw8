@@ -30,8 +30,6 @@ I'm a **Software Engineer** with a foundation in Business Administration and a p
 
 ## 🌟 Featured Projects
 
-- <a href="https://medibridge.uz/"><p>**MediBridge.uz**</p></a> – Empowering healthcare connections and streamlining medical workflows.
-- <a href="https://topgear.uz/"><p>**TopGear.uz**</p></a> – A modern car showroom project where you can browse, discover, and purchase cars online.
 - <a href="https://medibridge.uz/"><p>**MediBridge**</p></a> – Empowering healthcare connections and streamlining medical workflows.
 - <a href="https://topgear.uz/"><p>**TopGear**</p></a> – A modern car showroom project where you can browse, discover, and purchase cars online.
 
