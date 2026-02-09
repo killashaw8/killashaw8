@@ -1,9 +1,6 @@
-
-
-
 # Hi there, I'm Rahimjon Halimov (Romeo) 👋
 
-I'm a **Software Engineer** with a foundation in Business Administration and a passion for building impactful solutions. My coding journey began in early 2025, and since then I’ve been diving deep into full-stack web development and exploring the world of AI.
+I'm a **Software Engineer** with a foundation in Business Administration and a passion for building impactful solutions. My coding journey began in early 2025, and since then I've been diving deep into full-stack web development and exploring the world of AI.
 
 ---
 
@@ -31,6 +28,12 @@ I'm a **Software Engineer** with a foundation in Business Administration and a p
 
 ---
 
+## 📊 Repository Language Usage
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=killashaw8&layout=compact&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 ## 🌟 Featured Projects
 
 - <a href="https://medibridge.uz/"><p>**MediBridge**</p></a> – Empowering healthcare connections and streamlining medical workflows.
@@ -54,7 +57,7 @@ Majored in **Business Administration**, my unique perspective bridges the gap be
 ## ⚡ Fun Facts
 
 - ⚽ I love playing football and hiking.
-- 📈 I’m interested in the crypto market.
+- 📈 I'm interested in the crypto market.
 - 📚 A big fan of reading.
 
 ---
@@ -66,5 +69,3 @@ Majored in **Business Administration**, my unique perspective bridges the gap be
 ---
 
 _Always eager to collaborate, learn, and contribute to exciting projects!_
-
-
