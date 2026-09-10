@@ -53,6 +53,8 @@ Majored in **Business Administration**, my unique perspective bridges the gap be
 - ⚽ I love playing football and hiking.
 - 📈 I’m interested in the crypto market.
 - 📚 A big fan of reading.
+- 🤖 Exploring physical AI field
+- 💻 Studying AI/ML at academic level
 
 ---
 
