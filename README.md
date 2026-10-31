@@ -1,6 +1,6 @@
 # Hi there, I'm Rahimjon Halimov (Romeo) 👋
 
-I'm a **Software Engineer** with a foundation in Business Administration and a passion for building impactful solutions. My coding journey began in early 2025, and since then I’ve been diving deep into full-stack web development and exploring the world of AI.
+I'm a **Software Engineer** with a foundation in Business Administration and a passion for building impactful solutions. My coding journey began in early 2021, and since then I’ve been diving deep into full-stack web development and exploring the world of AI.
 
 ---
 
