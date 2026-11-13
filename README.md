@@ -43,16 +43,23 @@ I'm a **Software Engineer** with a foundation in Business Administration and a p
 
 ---
 
-## 🎓 Background
+## 🎓 Academic Background
 
-Majored in **Business Administration**, my unique perspective bridges the gap between technology and business needs.
+2017.03 - 2023.08 | Chonnam National University (S. Korea) | Bachelors <br>
+Majored in **Business Administration** 
+
+2025.09 - 2027.08 | Chungbuk National University (S. Korea) | Graduate <br>
+Majoring in **Convergence Software**
+
+My unique perspective bridges the gap between technology and business needs.
 
 ---
 
 ## ⚡ Fun Facts
 
 - ⚽ I love playing football and hiking.
-- 📈 I’m interested in the crypto market.
+- 📈 I’m interested in the Stock & Crypto market.
+- ♟️ Chess lover
 - 📚 A big fan of reading.
 - 🤖 Exploring physical AI field
 - 💻 Studying AI/ML at academic level
